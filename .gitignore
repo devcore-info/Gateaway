@@ -1,0 +1,11 @@
+target/
+*.class
+*.war
+*.ear
+*.jar
+.DS_Store
+nbproject/private/
+nb-configuration.xml
+.idea/
+*.iml
+*.log
